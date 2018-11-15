@@ -16,5 +16,7 @@
             @endforeach
             <div class="media justify-content-center mt-3">
                 {{ $businesses->links() }}
+
+
             </div>
 @endsection
